@@ -2,7 +2,7 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://fistasJo.github.io/fistaszjoObywatel
+https://fistaszo.github.io/fistaszjoObywatel
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
