@@ -1,6 +1,6 @@
-## yObywatel 2.0
+## fistaszjoObwatel 4.2.0
 
-Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
+Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska. Dawanie linku bez zgody właściciela jest zabronione.
 
 https://fistaszjo.github.io/FistaszjoObywatel/
 
@@ -14,4 +14,4 @@ https://fistaszjo.github.io/FistaszjoObywatel/
 - Uzupełnij dane i kliknij wejdź
 - Naciśji 3 kropki -> Dodaj do ekranu głównego
 
-[Dołącz na naszego discorda](https://discord.gg/EDg7A8sWqm)
+Miłego chlania i jarania.
