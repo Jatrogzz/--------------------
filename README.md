@@ -2,7 +2,7 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska. Dawanie linku bez zgody właściciela jest zabronione.
 
-https://fistaszjo.github.io/FistaszjoObywatel/
+https://fistaszjo.github.io/FistaszjoObywatel_6.9/
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
