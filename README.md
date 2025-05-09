@@ -1,4 +1,4 @@
-## fistaszjoObwatel 4.2.0 NOLOGIN
+## fistaszjoObwatel 4.2.0 DEACTIVATED
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska. Dawanie linku bez zgody właściciela jest zabronione.
 
